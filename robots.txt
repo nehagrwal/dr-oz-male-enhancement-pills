@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/dr-oz-male-enhancement-pills/sitemap.xml
+Sitemap: https://dr-oz-male-enhancement-pills.vercel.app/sitemap-vercel.xml
+Sitemap: https://dr-oz-male-enhancement-pills.pages.dev/sitemap-cloudflare.xml
